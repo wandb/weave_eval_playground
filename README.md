@@ -2,6 +2,8 @@
 
 A Streamlit-based application for evaluating prompts across datasets using LLM-as-judge scoring, integrated with Weights & Biases Weave for tracking and visualization.
 
+NOTE: This app is an illustrative example of how to build on top of Weave. Everything here is provided as-is, without warranty.
+
 ## Features
 
 - **Multi-Prompt Testing**: Configure and test multiple prompts simultaneously
