@@ -1,4 +1,4 @@
-streamlit==1.32.0
+streamlit==1.37.0
 weave==0.50.0
 openai==1.35.0
 pandas==2.2.0
