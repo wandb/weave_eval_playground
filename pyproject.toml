@@ -1,0 +1,18 @@
+[project]
+name = "eval-playground"
+version = "0.1.0"
+description = "A Streamlit-based application for evaluating prompts across datasets using LLM-as-judge scoring"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit>=1.32.0",
+    "weave>=0.50.0",
+    "openai>=1.35.0",
+    "pandas>=2.2.0",
+    "plotly>=5.20.0",
+    "python-dotenv>=1.0.0",
+    "watchdog>=6.0.0",
+]
+
+[tool.uv]
+dev-dependencies = [] 
